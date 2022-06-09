@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLNS_CNPM", "QLNS_CNPM\QLNS_CNPM.csproj", "{36323D4E-6683-4C28-BF48-8FB5BC41B02C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{BBE0F6E3-6EAC-43D8-83AF-18073F683CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36323D4E-6683-4C28-BF48-8FB5BC41B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36323D4E-6683-4C28-BF48-8FB5BC41B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36323D4E-6683-4C28-BF48-8FB5BC41B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36323D4E-6683-4C28-BF48-8FB5BC41B02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE0F6E3-6EAC-43D8-83AF-18073F683CA9}.Debug|Any CPU.ActiveCfg = Debug
+		{BBE0F6E3-6EAC-43D8-83AF-18073F683CA9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF0ED73-2BCF-4614-B673-8E251EEF0D8D}
+	EndGlobalSection
+EndGlobal
